@@ -1,0 +1,4 @@
+#ignore build files
+./factors/spec
+./build
+./dist
